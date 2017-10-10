@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/menu/menu_feeds.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/menu/menu_feeds.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/menu/menu_main.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/menu/menu_feed.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/menu/menu_feed.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/menu/nav_drawer.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/menu/nav_drawer.xml"
+    }
+]

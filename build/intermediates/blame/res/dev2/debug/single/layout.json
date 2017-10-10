@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/activity_new_post.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/activity_new_post.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/fragment_comments.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/fragment_comments.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/donato/.android/build-cache/9a44d7aeb64b9b0ba047acb28826073702518b8e/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/donato/.android/build-cache/9a44d7aeb64b9b0ba047acb28826073702518b8e/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/notification_template_part_time.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/donato/.android/build-cache/9a44d7aeb64b9b0ba047acb28826073702518b8e/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_navigation_menu.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/notification_media_action.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/activity_feeds.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/activity_feeds.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/activity_profile.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/notification_template_big_media.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_search_view.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/post_tile.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/post_tile.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/fragment_posts.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/fragment_posts.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/notification_template_media.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_navigation_item.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/donato/.android/build-cache/9a44d7aeb64b9b0ba047acb28826073702518b8e/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/activity_welcome.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/activity_comments.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/activity_comments.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/notification_template_lines.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/activity_user_detail.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/activity_user_detail.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/donato/.android/build-cache/fae04273ab35700acde3e654407fcbbd696b954e/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/comment_item.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/comment_item.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_screen_simple.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/post_item.xml",
+        "source": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/src/main/res/layout/post_item.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/layout/abc_action_bar_title_item.xml"
+    }
+]

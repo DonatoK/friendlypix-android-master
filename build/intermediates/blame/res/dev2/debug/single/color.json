@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/donato/.android/build-cache/f28d806b8fad99b3e2a2e011db4dfe1d1c0f7945/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/donato/.android/build-cache/f28d806b8fad99b3e2a2e011db4dfe1d1c0f7945/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/donato/.android/build-cache/f28d806b8fad99b3e2a2e011db4dfe1d1c0f7945/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/abc_search_url_text.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/donato/.android/build-cache/4ad57de347d571e08169d8fd7756b3f6b633279b/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/res/merged/dev2/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/donato/.android/build-cache/f28d806b8fad99b3e2a2e011db4dfe1d1c0f7945/output/res/color/common_plus_signin_btn_text_dark.xml"
+    }
+]

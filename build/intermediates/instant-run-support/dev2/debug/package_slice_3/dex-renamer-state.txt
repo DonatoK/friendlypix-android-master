@@ -1,0 +1,4 @@
+#Tue Oct 10 17:58:11 EDT 2017
+base.0=/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/5/slice_3
+renamed.0=classes.dex
+file.0=/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/5/slice_3/classes.dex

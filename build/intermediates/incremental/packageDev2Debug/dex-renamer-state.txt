@@ -1,0 +1,7 @@
+#Tue Oct 10 17:58:11 EDT 2017
+base.0=/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10000/instant-run_d4b620988a63eb92bfa94f64a155fa93ff6ffff1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10000/instant-run-bootstrap_174a97fe0263b6510125ca3d1c67506dac6b6994/classes.dex
+base.1=/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10000/instant-run-bootstrap_174a97fe0263b6510125ca3d1c67506dac6b6994
+file.0=/media/donato/Samsung USB/601programs/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10000/instant-run_d4b620988a63eb92bfa94f64a155fa93ff6ffff1/classes.dex

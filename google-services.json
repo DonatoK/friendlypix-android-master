@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "691383405300",
+    "firebase_url": "https://rdtry-ad988.firebaseio.com",
+    "project_id": "rdtry-ad988",
+    "storage_bucket": "rdtry-ad988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691383405300:android:f60113ab11ffb91f",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.friendlypixtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691383405300-j71hfq40aqjj4qtsoeoi75e0u2qs6gjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG58f40mFcyW7cCRQFJjjK49JIMQQP_Lc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
